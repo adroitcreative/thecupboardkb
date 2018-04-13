@@ -1,0 +1,85 @@
+head:
+
+Slide 1: "Enhancing everyday life Through Innovative Design..."
+Slide 2: "Original Designs" "Dedicated Designers" "Competitive Prices"
+Slide 3: 
+nav:
+  - Home
+  - About Us
+    - Services
+    - Our Manufacturers
+    - Portfolio
+      - Before & After pics
+    - Promotions
+  - Contact Us
+  
+  - Design Tips
+
+Sections: {
+
+  1: Portfolio
+    - "<Click here> to view our portfolio. We appeal to a wide variety of styles. We also focus on aesthetics, funcionality and how the consumer will use their kitchen."
+    - "Before/After" "<Click here> to view before and after photos of design projects we have completed."
+      - "Click any picture to view that kitchen, bath or living room project or go to our <Portfolio page> to view more design projects."
+  2: Promotions
+    - "<Click here> to view all of our current promotions!"
+  3: Design Tips
+    - "<Click here> to learn helpful tips that will make your cabinet design process as easy as possible."
+}
+
+Why choose us: {
+  - We go far beyond the average company to create your dream design
+  - Over 40 years experience in the industry
+  - Able to address any of your home renovation needs
+  - Focused on product quality and customer satisfaction
+  - You have over 9 cabinet lines to choose from
+  - You won't have to track us down for answers
+}
+
+Testimonials: {
+  "I have recommended, 'The Cupboard Kitchen and Bath Design Center' to my family and friends as I know they will get excellent service, products and prices.  They are very accommodating, professional and it has been an honor to work with them." 
+    -Sue Pagliarini (Homeowner)
+  
+  "The bathroom looks great John, thanks again! 
+    -Carla Entwistle (Homeowner)
+
+  "It was a pleasure working with you!  Your crew did a great job!"   -Andy Senecal (Homeowner)
+
+  "Patty and I would like to thank you for all of your help and effort in our brand new kitchen.  The Kitchen renovation is beautiful and really enhanced the look of our house.  Again, thank you for all of your valuable input and we are very happy with the great results!" 
+    -Patty Brown & Jesse Fordyce (Homeowner)
+}
+
+Contact Us: {
+  1050 Main St. Unit 1
+  East Greenwich, RI 02818
+  Phone: (401) 885-7100
+  Fax: (401) 885-7400
+  Email: contact@thecupboardkb.com
+  Web: www.thecupboardkb.com
+
+  Showroom Hours: {
+    Monday: Closed - Available by appointment only
+    Tuesday - Friday: 9:00AM - 5:30PM
+    Saturday: 10:00AM - 3:00PM
+    Sunday: Closed
+  }
+    
+  We also accommodate after hours. Call us for an appointment!
+
+  Like us on Facebook! <"https://www.facebook.com/thecupboardkb">
+  
+  Houzz: <"http://www.houzz.com/pro/thecupboardkb/the-cupboard-kitchen-bath-design-center>
+  <"http://www.houzz.com/professionals/kitchen-and-bath/c/East-Greenwich--RI">
+
+  "View our favorite Houzz designs and use as inspriration for your future design project! Then save to your personal ideabook!"
+  "thecupboardkb's ideabooks":
+  <"http://www.houzz.com/ideabooks/users/thecupboardkb"> 
+  
+
+  <a href="https://web.archive.org/web/20160207094734/http://www.houzz.com/photos/kitchen">Kitchen designs</a>, <a href="https://web.archive.org/web/20160207094734/http://www.houzz.com/photos/bath">bathroom designs</a>, and more &or;<br/><br/>Whether <a href="https://web.archive.org/web/20160207094734/http://www.houzz.com/photos/kitchen/granite-countertop">granite countertops</a>, a custom <a href="https://web.archive.org/web/20160207094734/http://www.houzz.com/photos/kitchen/kitchen-islands">kitchen island</a>, or built-in <a href="https://web.archive.org/web/20160207094734/http://www.houzz.com/photos/wine-racks">wine racks</a> are <a href="https://web.archive.org/web/20160207094734/http://www.houzz.com/new-kitchens">new kitchen</a> musts, discover thousands of <a href="https://web.archive.org/web/20160207094734/http://www.houzz.com/photos/kitchen">kitchen designs</a> to help make your dream come true.<br/>For <a href="https://web.archive.org/web/20160207094734/http://www.houzz.com/small-bathroom-ideas">small bathroom ideas</a>, browse photos of space-saving <a href="https://web.archive.org/web/20160207094734/http://www.houzz.com/photos/bathroom-vanities-and-sink-consoles">sink consoles</a> and clever hidden <a href="https://web.archive.org/web/20160207094734/http://www.houzz.com/photos/medicine-cabinets">medicine cabinet mirrors</a>.
+
+}
+
+Footer: {
+  "Copyright | All Rights Reserved | The Cupboard Kitchen and Bath Design Center"
+}

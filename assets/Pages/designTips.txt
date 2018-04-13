@@ -1,0 +1,10 @@
+Design Tips: {
+  "Our goal is to make the design process as simple as possible for you.  We try to provide you as much knowledge as possible to make an informed decision that will lead to your dream kitchen, bath or living area.  Below are some helpful sites to guide you in the process…"
+}
+
+Resources: {
+  - Link to Houzz Ideabooks: http://www.houzz.com/ideabooks/users/thecupboardkb
+  - Starmark Cabinet budget calc: http://www.starmarkcabinetry.com/Pages/Advice/BudgetCalculator.aspx
+  - Kemper Cabinet budget calc: https://www.masterbrand.com/get-started/design-your-room/budget-calculator
+  - Waypoint Style Quiz: https://www.waypointlivingspaces.com/quiz
+}

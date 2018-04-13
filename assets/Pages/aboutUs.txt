@@ -1,0 +1,27 @@
+
+Banner image: {
+  "Come visit us!" "Free consultaion!" "knowledgeable staff!"
+}
+
+We Are Here To Serve You: {
+  "We specialize in custom kitchen and bath cabinet designs.  We sell cabinets, replacement doors, granite, countertops, tile, faucets, sinks and more!  The Cupboard Kitchen and Bath Design Center provides quality cabinet designs for our residential, as well as our commercial customers.
+
+  We go far beyond the average cabinet company to create your dream design.  Whether, it is your kitchen, bath, entertainment center, or conference room; we put in the extra time to incorporate your wish list at competitive pricing.  With over 40 years experience, our knowledgeable staff will be able to address any of your home renovation needs and point you in the right direction!
+
+  BIGGER DOESN’T ALWAYS MEAN BETTER!  As a small family business, we believe strongly in this philosophy.  We offer quality service, spend the time needed with our customers and see the project through from start to finish.  You Won’t have to track us down to get answers.  You Will have one designer who will provide quality cabinet designs for any budget."
+
+  401-885-7100
+  Create your dream kitchen and bath today!
+
+}
+
+Our Team: {
+  John Perrotti - Owner/Designer
+    John started his own successful construction business over 40 years ago.  His knowledge of the industry along with his civil engineering background gives him a competitive edge.  He can provide cabinet designs that are not only aesthetically appealing but functional as well.
+  
+  Kendra Chatterley - Designer
+    With a B.A. in Interior Design from Wentworth Institute of Technology, her years of experience in both the residential and hospitality industries has built a foundation of functional beauty with a detailed eye.  Whatever your design needs, Kendra will be able to construct the kitchen or bath of your dreams, while ensuring the process is enjoyable and stress free.
+
+  Krista Perrotti - Marketing/Assisting Designer
+    Krista is a marketing graduate from East Carolina University’s business school and has over 4 years experience in the marketing/project management industry.  She brings a creative vision and focus to the business and cabinet designs.
+}
